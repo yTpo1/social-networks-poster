@@ -1,0 +1,5 @@
+mysql-connector-python==8.0.20
+PyMySQL==0.8.0
+PyTumblr==0.0.7
+Telethon==0.19
+tweepy==3.6.

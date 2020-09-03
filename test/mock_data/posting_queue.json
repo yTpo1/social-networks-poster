@@ -1,0 +1,22 @@
+[
+    [
+        {
+            "content_type": "image",
+            "directory": "/media/ghost/ab961601-37b0-4743-ae69-3e7a0c12370c/Poetry/Lord_Byron/She_walks_in_beauty/bw_girl_hair.jpg",
+            "selection_alg": "direct"
+        },
+        {
+            "content_type": "text",
+            "selection_alg": "direct",
+            "data_format": "txt",
+            "data_file": "/media/ghost/ab961601-37b0-4743-ae69-3e7a0c12370c/Poetry/Lord_Byron/She_walks_in_beauty/she_walks_in_beauty.txt",
+            "format_rules": []
+        },
+        {
+            "content_type": "image",
+            "directory": "/media/ghost/ab961601-37b0-4743-ae69-3e7a0c12370c/Poetry/Lord_Byron/She_walks_in_beauty/tom_Hiddleston_-_She_Walks_In_Beauty_by_Lord_Byron.mp3",
+            "selection_alg": "direct"
+        }
+    ],
+    []
+]

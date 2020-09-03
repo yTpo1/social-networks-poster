@@ -1,0 +1,11 @@
+*.swap
+*.swp
+*.idea
+*venv
+*__pycache__
+/__pycache__/*
+*.pylintrc
+session_tele.session
+TimeRecordsPosting.txt
+z_log_files/
+static_data/

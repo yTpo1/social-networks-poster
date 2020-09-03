@@ -1,0 +1,20 @@
+[
+    {
+        "filename": ""
+    },
+    {
+        "filename": "/home/ghost/Projects/Social_posting/social-networks-poster/test/mock_data/Mockmultidir/Folder1/file1.jpg"
+    },
+    {
+        "filename": "/home/ghost/Projects/Social_posting/social-networks-poster/test/mock_data/Mockmultidir/Folder2/file2.jpg"
+    },
+    {
+        "filename": "/home/ghost/Projects/Social_posting/social-networks-poster/test/mock_data/Mockmultidir/Folder1/infogeneral.json"
+    },
+    {
+        "filename": "/home/ghost/Projects/Social_posting/social-networks-poster/test/mock_data/Mockmultidir/Folder2/infogeneral.json"
+    },
+    {
+        "filename": "/home/ghost/Projects/Social_posting/social-networks-poster/test/mock_data/Mockmultidir/Folder3/infogeneral.json"
+    }
+]

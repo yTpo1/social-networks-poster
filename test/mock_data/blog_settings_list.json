@@ -1,0 +1,9 @@
+[
+        {
+        "social_network": "telegram",
+        "blog_username": "@username",
+        "file_type": "mixed",
+        "content": "test/mock_data/posting_queue.json",
+        "tags":""
+    }
+]

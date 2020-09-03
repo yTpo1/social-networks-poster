@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  broadcastapp:
+    build:
+      context: .
+    volumes:
+      - /media/pi/ab961601-37b0-4743-ae69-3e7a0c12370c:/media/root/ab961601-37b0-4743-ae69-3e7a0c12370c
+      - /media/pi/ab961601-37b0-4743-ae69-3e7a0c12370c/Project_databases/cron/test_simple/root:/etc/crontabs/root
